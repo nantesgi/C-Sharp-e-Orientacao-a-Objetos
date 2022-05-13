@@ -1,0 +1,6 @@
+C:\Users\estagio.sst18\source\CodigosCSharpGi\PrimeirosCodigosCSharp\2-Criando variaveis\bin\Debug\2-Criando variaveis.exe.config
+C:\Users\estagio.sst18\source\CodigosCSharpGi\PrimeirosCodigosCSharp\2-Criando variaveis\bin\Debug\2-Criando variaveis.exe
+C:\Users\estagio.sst18\source\CodigosCSharpGi\PrimeirosCodigosCSharp\2-Criando variaveis\bin\Debug\2-Criando variaveis.pdb
+C:\Users\estagio.sst18\source\CodigosCSharpGi\PrimeirosCodigosCSharp\2-Criando variaveis\obj\Debug\2-Criando variaveis.csproj.CoreCompileInputs.cache
+C:\Users\estagio.sst18\source\CodigosCSharpGi\PrimeirosCodigosCSharp\2-Criando variaveis\obj\Debug\2-Criando variaveis.exe
+C:\Users\estagio.sst18\source\CodigosCSharpGi\PrimeirosCodigosCSharp\2-Criando variaveis\obj\Debug\2-Criando variaveis.pdb

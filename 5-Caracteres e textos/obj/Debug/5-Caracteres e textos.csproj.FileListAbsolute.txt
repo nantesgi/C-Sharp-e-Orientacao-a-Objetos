@@ -1,0 +1,7 @@
+C:\Users\estagio.sst18\source\CodigosCSharpGi\PrimeirosCodigosCSharp\5-Caracteres e textos\bin\Debug\5-Caracteres e textos.exe.config
+C:\Users\estagio.sst18\source\CodigosCSharpGi\PrimeirosCodigosCSharp\5-Caracteres e textos\bin\Debug\5-Caracteres e textos.exe
+C:\Users\estagio.sst18\source\CodigosCSharpGi\PrimeirosCodigosCSharp\5-Caracteres e textos\bin\Debug\5-Caracteres e textos.pdb
+C:\Users\estagio.sst18\source\CodigosCSharpGi\PrimeirosCodigosCSharp\5-Caracteres e textos\obj\Debug\5-Caracteres e textos.csproj.AssemblyReference.cache
+C:\Users\estagio.sst18\source\CodigosCSharpGi\PrimeirosCodigosCSharp\5-Caracteres e textos\obj\Debug\5-Caracteres e textos.csproj.CoreCompileInputs.cache
+C:\Users\estagio.sst18\source\CodigosCSharpGi\PrimeirosCodigosCSharp\5-Caracteres e textos\obj\Debug\5-Caracteres e textos.exe
+C:\Users\estagio.sst18\source\CodigosCSharpGi\PrimeirosCodigosCSharp\5-Caracteres e textos\obj\Debug\5-Caracteres e textos.pdb

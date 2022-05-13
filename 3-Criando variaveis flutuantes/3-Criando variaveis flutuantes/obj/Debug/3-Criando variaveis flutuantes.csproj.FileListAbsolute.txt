@@ -1,0 +1,7 @@
+C:\Users\estagio.sst18\source\CodigosCSharpGi\3-Criando variaveis flutuantes\3-Criando variaveis flutuantes\bin\Debug\3-Criando variaveis flutuantes.exe.config
+C:\Users\estagio.sst18\source\CodigosCSharpGi\3-Criando variaveis flutuantes\3-Criando variaveis flutuantes\bin\Debug\3-Criando variaveis flutuantes.exe
+C:\Users\estagio.sst18\source\CodigosCSharpGi\3-Criando variaveis flutuantes\3-Criando variaveis flutuantes\bin\Debug\3-Criando variaveis flutuantes.pdb
+C:\Users\estagio.sst18\source\CodigosCSharpGi\3-Criando variaveis flutuantes\3-Criando variaveis flutuantes\obj\Debug\3-Criando variaveis flutuantes.csproj.AssemblyReference.cache
+C:\Users\estagio.sst18\source\CodigosCSharpGi\3-Criando variaveis flutuantes\3-Criando variaveis flutuantes\obj\Debug\3-Criando variaveis flutuantes.csproj.CoreCompileInputs.cache
+C:\Users\estagio.sst18\source\CodigosCSharpGi\3-Criando variaveis flutuantes\3-Criando variaveis flutuantes\obj\Debug\3-Criando variaveis flutuantes.exe
+C:\Users\estagio.sst18\source\CodigosCSharpGi\3-Criando variaveis flutuantes\3-Criando variaveis flutuantes\obj\Debug\3-Criando variaveis flutuantes.pdb

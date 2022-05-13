@@ -1,0 +1,7 @@
+C:\Users\estagio.sst18\source\CodigosCSharpGi\PrimeirosCodigosCSharp\1-Primeiro Projeto\bin\Debug\1-Primeiro Projeto.exe.config
+C:\Users\estagio.sst18\source\CodigosCSharpGi\PrimeirosCodigosCSharp\1-Primeiro Projeto\bin\Debug\1-Primeiro Projeto.exe
+C:\Users\estagio.sst18\source\CodigosCSharpGi\PrimeirosCodigosCSharp\1-Primeiro Projeto\bin\Debug\1-Primeiro Projeto.pdb
+C:\Users\estagio.sst18\source\CodigosCSharpGi\PrimeirosCodigosCSharp\1-Primeiro Projeto\obj\Debug\1-Primeiro Projeto.csproj.AssemblyReference.cache
+C:\Users\estagio.sst18\source\CodigosCSharpGi\PrimeirosCodigosCSharp\1-Primeiro Projeto\obj\Debug\1-Primeiro Projeto.csproj.CoreCompileInputs.cache
+C:\Users\estagio.sst18\source\CodigosCSharpGi\PrimeirosCodigosCSharp\1-Primeiro Projeto\obj\Debug\1-Primeiro Projeto.exe
+C:\Users\estagio.sst18\source\CodigosCSharpGi\PrimeirosCodigosCSharp\1-Primeiro Projeto\obj\Debug\1-Primeiro Projeto.pdb
